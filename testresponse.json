@@ -1,0 +1,10 @@
+{
+  "match": "Hello",
+  "description": "hello - finish hello world!",
+  "listener": "hi",
+  "response": [
+    "Hi there!",
+    "Hi",
+    "Hello"
+  ]
+}
